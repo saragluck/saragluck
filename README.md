@@ -1,4 +1,4 @@
-![](https://github.com/saragluck/saragluck/blob/main/github-banner.gif)
+![](https://github.com/saragluck/saragluck/blob/main/github-banner%20(1).gif)
 
 <!--
 **saragluck/saragluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
